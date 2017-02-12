@@ -9,6 +9,21 @@ Enjoy...
 ## #2 Know the Platforms
 
 ## #3 Know how to share code
+### Shared Application Projects (SAP) vs Portable Class Libraries (PCL)
+* [**Code Sharing Options**](https://developer.xamarin.com/guides/cross-platform/application_fundamentals/building_cross_platform_applications/sharing_code_options/) - Official Xamarin documentation on Shared Projects and PCL's including some advantages and disadvantages.
+
+
+* [**Forum post discussing different peoples thoughts on SAP vs PCL**](https://forums.xamarin.com/discussion/59381/why-shared-projects/p1) - Includes some links to great posts by [Jason Smith](http://xfcomplete.net/general/2016/01/19/pcl-or-shared-project/) and [Miguel de Icaza](http://tirania.org/blog/archive/2016/Jan-22.html) and [Adam Pedley](http://xamarinhelp.com/portable-class-library-pcl-vs-shared-projects/).
+
+### Nuget Components
+* [**Awesome .NET**](https://dotnet.libhunt.com/) - A search engine for awesome .NET components
+
+* [**Awesome Xamarin**](https://github.com/benoitjadinon/awesome-xamarin) - A curated list of great Xamarin components
+### Xamarin Component Store
+* [**Xamarin Component Store**](https://components.xamarin.com/) - Components curated by the lovely folks at Xamarin.  The advantage of these is that you will always get a sample project to show you how to use the component, which provides a really nice starting point.
+### Xamarin Plugins
+* [**Xamarin Plugins**](https://github.com/xamarin/plugins) - Open Source Components for Xamarin are a collection of open source components (including bindings and plugins) created by Xamarin and others in the community.  There is also instructions in here on how to create your own 
+
 
 ## #4 Know XAML
 
