@@ -2,11 +2,14 @@
 
 These links and demo projects are here to accompany the Ignite Australia 2017 session.  There are just so many great links and resources out there, we couldn't possibly list them all out during the session.  
 
-Enjoy...
+Enjoy
 
 ## #1 Know when to use Xamarin.Forms
+* [**Xamarin.Forms Homepage**](https://www.xamarin.com/forms) - The landing place for Xamarin.Forms. Provides links to Xamarin.Forms and Xamarin.iOS and Xamarin.Android as well as a comparison of why you would use each.
+* [**Merge Conflict episode 31: One UI to Rule Them All**](http://www.mergeconflict.fm/merge-conflict-31-one-ui-to-rule-them-all) - Frank and James debate the Pros and Cons of Xamarin.Forms. They discuss performance, look and feel, alternatives, and if we really should be using all those fancy data bindings.
 
 ## #2 Know the Platforms
+
 
 ## #3 Know how to share code
 ### Shared Application Projects (SAP) vs Portable Class Libraries (PCL)
@@ -30,6 +33,7 @@ Enjoy...
 ## #5 Know how to store data (locally and remotely)
 
 ## #6 Know how to structure your solution
+* [**.NET Rocks episode 1411 - Xamarin MVVM apps with Gill CleerenVM**](https://www.dotnetrocks.com/?show=1411) - The Guys discuss MVVM and why you might want to use it as a way to structure your Xamarin.Forms app. 
 
 ## #7 Know how to customise Xamarin.Forms
 
