@@ -85,4 +85,8 @@ Knowing where to get good information can be a challenge, here are some great re
 
 * [**Weekly Xamarin Newsletter**](http://weeklyxamarin.com/) - Subscribe to a hand-picked round up of the best Xamarin development links every week. Curated by Geoffrey Huntley and published every Friday.
 
+* [**Sydney Xamarin User Group**](https://www.meetup.com/SydneyMobileDotNetDevelopers/)
+* [**Melbourne Xamarin User Group**](https://www.meetup.com/Melbourne-Xamarin-Meetup/)
+* [**Brisbane Xamarin User Group**](https://www.meetup.com/Queensland-based-MonoTouch-and-Mono-for-Android/)
+* [**Perth Xamarin User Group**](https://www.meetup.com/Perth-Mobile-NET-Xamarin-Developers/)
 * [**Xamarin User Groups**](http://www.meetup.com/topics/xamarin/) - All the meetups around the world.
