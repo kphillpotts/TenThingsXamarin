@@ -2,16 +2,48 @@
 
 These links and demo projects are here to accompany the Ignite Australia 2017 session.  There are just so many great links and resources out there, we couldn't possibly list them all out during the session.  
 
-Enjoy
+Enjoy.
 
-## #1 Know when to use Xamarin.Forms
+## #1 :  Know when to use Xamarin.Forms
+
 * [**Xamarin.Forms Homepage**](https://www.xamarin.com/forms) - The landing place for Xamarin.Forms. Provides links to Xamarin.Forms and Xamarin.iOS and Xamarin.Android as well as a comparison of why you would use each.
+
 * [**Merge Conflict episode 31: One UI to Rule Them All**](http://www.mergeconflict.fm/merge-conflict-31-one-ui-to-rule-them-all) - Frank and James debate the Pros and Cons of Xamarin.Forms. They discuss performance, look and feel, alternatives, and if we really should be using all those fancy data bindings.
 
-## #2 Know the Platforms
+<HR>
 
+## #2:  Know how to customise Xamarin.Forms
 
-## #3 Know how to share code
+* [**Styles and Resources in Xamarin Forms**](https://developer.xamarin.com/guides/xamarin-forms/user-interface/styles/) - Xamarin documentation on Styles and Resources.
+
+* [**IOS UIAppearance**](https://developer.xamarin.com/guides/ios/user_interface/introduction_to_the_appearance_api/) - Use the UIAppearance API to add some zing to your iOS projects
+
+* [**Material Theming**](https://developer.xamarin.com/guides/android/user_interface/material_theme/) - Beautiful native android theming
+
+* [**Effects Documentation**](https://developer.xamarin.com/guides/xamarin-forms/effects/introduction/) - Xamarin Docs on Effects
+
+* [**Forms Community Toolkit Effects**](https://github.com/FormsCommunityToolkit/Effects) - Community library of effects you can use in your applications or pull apart and see how they work.
+
+* [**Custom Renderer Documentation**](https://developer.xamarin.com/guides/xamarin-forms/custom-renderer/) - Official docs on renderers
+
+* [**Handy reference to native controls used by renderers**](https://developer.xamarin.com/guides/xamarin-forms/custom-renderer/renderers/) - Every Xamarin.Forms control has an accompanying renderer for each platform that creates an instance of a native control. This article lists the renderer and native control classes that implement each Xamarin.Forms page, layout, view, and cell.
+
+* [**Native Embedding**](https://developer.xamarin.com/guides/xamarin-forms/user-interface/layouts/add-platform-controls/) - Platform-specific controls can be directly added to a Xamarin.Forms layout. This article demonstrates how to add platform-specific controls to a Xamarin.Forms layout, and how to override the layout of custom controls in order to correct their measurement API usage.
+
+<HR>
+
+## #3: Know the Platforms
+
+* [**HealthKit**](
+https://developer.xamarin.com/guides/ios/platform_features/introduction_to_healthkit/) - Integrate with platform features like HealthKit. 
+
+* [**Creating Extensions**](https://www.youtube.com/watch?v=HM5MqmvSgf8&index=23&list=PL5kjezgaPFo-AzDBmd2sE0ewt1O-_luWh) - Video on creating todays extension.
+
+* [**Mesh Networking**](https://developer.xamarin.com/api/namespace/MultipeerConnectivity/) - Docs on mesh Networking
+
+<hr>
+
+## #4:  Know how to share code
 
 ### Shared Application Projects (SAP) vs Portable Class Libraries (PCL)
 * [**Code Sharing Options**](https://developer.xamarin.com/guides/cross-platform/application_fundamentals/building_cross_platform_applications/sharing_code_options/) - Official Xamarin documentation on Shared Projects and PCL's including some advantages and disadvantages.
@@ -20,7 +52,7 @@ Enjoy
 
 * [**Hosting your own Nuget Feeds**](http://docs.nuget.org/create/hosting-your-own-nuget-feeds) - Sometimes its useful to have an "internal" set of components you want to use within your company. So why not host your own.
 
-* [**IOC Containers iwth Xamarin**](http://arteksoftware.com/ioc-containers-with-xamarin/) - Rob Gibbens shows some code of how to integrate some of the most popular IOC Containers.
+* [**IOC Containers with Xamarin**](http://arteksoftware.com/ioc-containers-with-xamarin/) - Rob Gibbens shows some code of how to integrate some of the most popular IOC Containers.
 
 ### Components
 
@@ -34,23 +66,60 @@ Enjoy
 
 * [**DotNet Foundation**](https://dotnetfoundation.org/projects?type=project) - The .NET Foundation is an independent organization to foster open development and collaboration around the .NET ecosystem.
 
+<HR>
 
-## #4 Know XAML
-
-## #5 Know how to store data (locally and remotely)
-
-## #6 Know how to structure your solution
+## #5 Know how to structure your solution
 * [**.NET Rocks episode 1411 - Xamarin MVVM apps with Gill CleerenVM**](https://www.dotnetrocks.com/?show=1411) - The Guys discuss MVVM and why you might want to use it as a way to structure your Xamarin.Forms app. 
 
 * [**Prebuilt App Samples**](http://xamarin.com/prebuilt) - Xamarin Prebuilt applications, pull apart some applications and see how they are structured.
 
 * [**Xamarin Evolve App**](https://github.com/xamarinhq/app-evolve) - A nice example of a well put together Xamarin Forms app. Quite a nice reference architecture.
 
-## #7 Know how to customise Xamarin.Forms
-* [**Styles - Using styles to customize appearance**](https://developer.xamarin.com/guides/xamarin-forms/user-interface/styles/) - Official Xamarin documentation on Styles and resources
+
+<HR>
+
+## #6 Know XAML
+
+* [**XAML Compilation**](https://developer.xamarin.com/guides/xamarin-forms/xaml/xamlc/) - Xamarin documentation on XAML compilation.
+
+* [**Databinding**](https://developer.xamarin.com/guides/xamarin-forms/xaml/xaml-basics/data_binding_basics/) - Data bindings allow properties of two objects to be linked so that a change in one causes a change in the other. This is a very valuable tool, and while data bindings can be defined entirely in code, XAML provides shortcuts and convenience. Consequently, one of the most important markup extensions in Xamarin.Forms is Binding.
+
+<HR>
+
+## #7: Know how to store data locally and remotely
+
+* [**Settings Plugin**](https://github.com/jamesmontemagno/SettingsPlugin) - Create and access settings from shared code across all of your mobile apps!
+
+* [**Apple Documentation of FileSystem**](https://developer.apple.com/library/ios/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide/FileSystemOverview/FileSystemOverview.html)
+
+* [**Android Documentation on Data Storage**](https://developer.android.com/guide/topics/data/data-storage.html)
+
+* [**Windows Documentation on Storage**](https://msdn.microsoft.com/en-us/windows/uwp/app-settings/store-and-retrieve-app-data)
+
+* [**SQLite.NET - PCL**](https://github.com/praeclarum/sqlite-net) - SQLite-net is an open source, minimal library to allow .NET and Mono applications to store data in SQLite 3 databases. 
+
+* [**Shipping a SQLite database with Xamarin.Forms**](http://arteksoftware.com/deploying-a-database-file-with-a-xamarin-forms-app/) - Sometimes you want to ship a database with your Xamarin.Forms app, here's how.
+
+* [**Refit**](https://github.com/paulcbetts/refit) - The automatic type-safe REST library for Xamarin and .NET
+
+* [**Polly**](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.
+
+* [**Akavache**](https://github.com/akavache/Akavache) - Akavache is an asynchronous, persistent (i.e. writes to disk) key-value store created for writing desktop and mobile applications in C#, based on SQLite3. Akavache is great for both storing important data (i.e. user settings) as well as cached local data that expires.
+
+* [**Enabling Platform Networking**]() -
+
+* [**Resilient network services with mobile Xamarin apps**](http://arteksoftware.com/resilient-network-services-with-xamarin/) - Great article showing how to combine some frameworks together to create a resilient network layer.
+
+* [**HTTPClient Platform Selection**](https://developer.xamarin.com/guides/cross-platform/macios/http-stack/) - The new HttpClient Stack and SSL/TLS Implementation Selector determines the HttpClient and SSL/TLS Implementation that will be used by your Xamarin.iOS, Xamarin.tvOS or Xamarin.Mac app.
 
 
-## #8 Know how to make your app more performant
+
+
+
+<HR>
+
+## #8:  
+
 
 ## #9 Know how to test your app
 
