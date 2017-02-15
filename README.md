@@ -4,6 +4,8 @@ These links and demo projects are here to accompany the Ignite Australia 2017 se
 
 Enjoy.
 
+<HR>
+
 ## #1 :  Know when to use Xamarin.Forms
 
 * [**Xamarin.Forms Homepage**](https://www.xamarin.com/forms) - The landing place for Xamarin.Forms. Provides links to Xamarin.Forms and Xamarin.iOS and Xamarin.Android as well as a comparison of why you would use each.
@@ -84,6 +86,8 @@ https://developer.xamarin.com/guides/ios/platform_features/introduction_to_healt
 
 * [**Databinding**](https://developer.xamarin.com/guides/xamarin-forms/xaml/xaml-basics/data_binding_basics/) - Data bindings allow properties of two objects to be linked so that a change in one causes a change in the other. This is a very valuable tool, and while data bindings can be defined entirely in code, XAML provides shortcuts and convenience. Consequently, one of the most important markup extensions in Xamarin.Forms is Binding.
 
+* [**Creating Mobile Apps with Xamarin.Forms Book, First Edition**](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/) - This is a free ebook from Charles Petzold, the master of XAML.  So much goodness about XAML in this book. 
+
 <HR>
 
 ## #7: Know how to store data locally and remotely
@@ -118,13 +122,33 @@ https://developer.xamarin.com/guides/ios/platform_features/introduction_to_healt
 
 <HR>
 
-## #8:  
+## #8: Know how to improve App performance
 
+* [**FFImage Component**](https://github.com/luberda-molinet/FFImageLoading) - Library to load images quickly & easily on Xamarin.iOS, Xamarin.Android, Xamarin.Forms and Windows (UWP, WinRT).
+
+* [**Tango and Cache**](https://github.com/rdio/tangoandcache) - TangoAndCache is an in-memory cache for bitmaps. At a basic level it is a byte-bound LRU cache, evicting the oldest entries as new ones push the cache over the high watermark. It facilitates Bitmap reuse to reduce the number of allocations made and monitors the count of bytes evicted from the cache in order to force GC cycles to prevent OOMs on the native side.
+
+* [**Xamarin.Android performance**](https://developer.xamarin.com/guides/android/deployment,_testing,_and_metrics/performance/) - Many performance tips for Xamarin.Android applications.
+
+* [**Xamarin.iOS performance**](https://developer.xamarin.com/guides/ios/deployment,_testing,_and_metrics/performance/) - Performance tips specific to Xamarin.iOS.
+
+* [**Xamarin.Forms performance**](https://developer.xamarin.com/guides/xamarin-forms/deployment,_testing,_and_metrics/performance/) - There are many techniques for increasing the performance of Xamarin.Forms applications. Collectively these techniques can greatly reduce the amount of work being performed by a CPU, and the amount of memory consumed by an application. This article describes and discusses these techniques.  There is also a [cheat sheet](http://kent-boogaart.com/blog/jason-smith's-xamarin-forms-performance-tips) from Jason Smiths awesome Evolve 2016 talk.
+
+* [**Cross Platform performance**](https://developer.xamarin.com/guides/cross-platform/deployment,_testing,_and_metrics/memory_perf_best_practices/) - Performance tips, focused more on general .NET optimisations and best practices.
+
+* [**Xamarin.Forms ListView performance**](https://developer.xamarin.com/guides/xamarin-forms/user-interface/listview/performance/) - Although ListView is a powerful view for displaying data, it has its limitations. Scrolling performance can suffer when using custom cells, especially when they contain deeply nested view hierarchies or use certain layouts that require a lot of measurement. Fortunately, there are techniques you can use to avoid poor performance.
+
+<HR>
 
 ## #9 Know how to test your app
 
+* [**Xamarin.UITest Cheat Sheet**](https://developer.xamarin.com/guides/testcloud/uitest/cheatsheet/) - This document is a cheat sheet that condenses UITest information for quick reference.
+
+* [**Test Cloud**](https://developer.xamarin.com/guides/testcloud/introduction-to-test-cloud/) - This guide offers a quick introduction to Xamarin Test Cloud and Automated UI Acceptance Testing. It will discuss the underlying concepts and components behind Xamarin Test Cloud and the frameworks that allow developers to write automated UI tests.
+
+<HR>
+
 ## #10 Know where to get information
-Knowing where to get good information can be a challenge, here are some great resources:
 
 ### Official Stuff
 * [**The Official Xamarin Documentation**](https://developer.xamarin.com) - The docs team update this information all the time to keep up with the latest updates, also it has many great recipes and guides worth looking at.
@@ -154,8 +178,15 @@ Knowing where to get good information can be a challenge, here are some great re
 
 * [**Weekly Xamarin Newsletter**](http://weeklyxamarin.com/) - Subscribe to a hand-picked round up of the best Xamarin development links every week. Curated by Geoffrey Huntley and published every Friday.
 
+* [**StackOverflow**](http://www.stackoverflow.com) - Xamarin does a lot of support through StackOverflow.
+
+### User Groups
 * [**Sydney Xamarin User Group**](https://www.meetup.com/SydneyMobileDotNetDevelopers/)
+
 * [**Melbourne Xamarin User Group**](https://www.meetup.com/Melbourne-Xamarin-Meetup/)
+
 * [**Brisbane Xamarin User Group**](https://www.meetup.com/Queensland-based-MonoTouch-and-Mono-for-Android/)
+
 * [**Perth Xamarin User Group**](https://www.meetup.com/Perth-Mobile-NET-Xamarin-Developers/)
+
 * [**Xamarin User Groups**](http://www.meetup.com/topics/xamarin/) - All the meetups around the world.
